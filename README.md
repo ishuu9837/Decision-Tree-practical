@@ -97,3 +97,5 @@ This visualization displays the nodes, the Gini impurity at each node, the numbe
     pip install numpy pandas matplotlib scikit-learn
     ```
 4.  **Launch Jupyter Notebook and open `Decision_Tree_practical.ipynb`** to explore the code and results.
+
+## Happy Learning
